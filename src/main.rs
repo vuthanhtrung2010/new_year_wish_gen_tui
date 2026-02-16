@@ -123,7 +123,7 @@ fn handle_friend() -> Option<String> {
                     parts.push("điểm LAH thật cao để được miễn thi".to_string());
                 } else {
                     parts
-                        .push("điểm công bằng và cuối kì cao chót vót để săn học bổng".to_string());
+                        .push("điểm công bằng và cuối kì cao chót vót để săn học bổng 👀".to_string());
                 }
             }
             "Nhan sắc" => {
@@ -140,7 +140,7 @@ fn handle_friend() -> Option<String> {
                 parts.push("tiền lì xì đếm mỏi tay, ví lúc nào cũng dày".to_string());
             }
             "Code / IT" => {
-                parts.push("code một phát ăn ngay, bug tự fix, deploy mượt mà".to_string());
+                parts.push("code một phát ăn ngay, bug tự fix, AK đề".to_string());
             }
             _ => {}
         }

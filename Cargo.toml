@@ -1,0 +1,12 @@
+[package]
+name = "happy_new_year"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+inquire = "0.7"
+colored = "2.0"
+console = "0.15"
+unicode-width = "0.1"
+textwrap = "0.16"
+arboard = "3.4" # Support windows clipboard

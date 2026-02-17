@@ -214,8 +214,9 @@ fn handle_friend() -> Option<String> {
                 if is_dt_tin == "Có" {
                     parts.push("điểm LAH thật cao để được miễn thi".to_string());
                 } else {
-                    parts
-                        .push("điểm công bằng và cuối kì cao chót vót để săn học bổng 👀".to_string());
+                    parts.push(
+                        "điểm công bằng và cuối kì cao chót vót để săn học bổng 👀".to_string(),
+                    );
                 }
             }
             "Nhan sắc" => {
